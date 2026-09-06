@@ -1,0 +1,2 @@
+Add the 8 real images listed in README.txt to this folder.
+The HTML already contains comments showing exactly which image belongs where.
